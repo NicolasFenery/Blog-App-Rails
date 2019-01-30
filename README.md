@@ -1,24 +1,17 @@
-# README
+# Projet
+Application Rails du Blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Description
+https://raw.githubusercontent.com/manonfenery/blog-app-rails/branch/path/to/img.png
 
-Things you may want to cover:
+L'App contient 5 models (dans Dossier app/models) :
+- User
+- Article
+- Category
+- Comment
+- Like
 
-* Ruby version
+Et pour trouver les migrations : Dossier db/migrate.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Team
+Nicolas Fenery & Manon Fenery
