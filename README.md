@@ -2,7 +2,7 @@
 Application Rails du Blog
 
 ## Description :pencil2:
-![alt text](https://raw.githubusercontent.com/manonfenery/blog-app-rails/branch/path/to/img.png)
+![alt text](https://github.com/NicolasFenery/Blog-App-Rails/blob/master/Blog%20ERD.jpeg)
 
 L'App contient 5 models (dans Dossier app/models) :
 - User
